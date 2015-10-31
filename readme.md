@@ -1,5 +1,6 @@
 # jQuery TempGauge plugin
 ## Versionnumber 1.0.0 (2015-10-31) 
+(***Documentation last update 2015-10-31 10:57***)  
 Mini jQuery Temperature styled Gauge plugin, that replaces Temperature Values with an Temperature Gauge.  
 ![Alt Temperature to Gauge](https://raw.githubusercontent.com/akumagamo/jquery-plugin-tempGauge/master/readme/tempgauge-plugin-screenshot.png "Temperature to Gauge")
 
