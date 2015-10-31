@@ -51,7 +51,7 @@ See ```demo.html``` for an working example, here a link to a working Demo [jQuer
        +- readme.md (this document)
 	   +- LICENSE 
 	  
-### Options / Table structure
+### Options
 * **borderColor** *(****default:*** *black)*
 * **borderWidth** *(****default:*** *4)*
 * **defaultTemp**  *(****default:*** *26)*
