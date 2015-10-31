@@ -26,7 +26,7 @@ add script to webpage
 	<script type="text/javascript" src="js/jquery.tempgauge.js"></script>
 
 ### SourceControl Link & Information
-git@github.com:akumagamo/jquery-plugin-tempgauge.git
+https://github.com/akumagamo/jquery-plugin-tempgauge.git
 
 ### Base Code Example
 
