@@ -62,7 +62,7 @@ See ```demo.html``` for an working example, here a link to a working Demo [jQuer
 * **labelSize**  *(****default:*** *12)*
 * **maxTemp**  *(****default:*** *40)*
 * **minTemp**  *(****default:*** *100)*
-* **showLabel**  *(**default:*** f*alse)*
+* **showLabel**  *(****default:*** *false)*
 * **width** *(****default:*** *100)*
 
 
