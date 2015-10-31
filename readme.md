@@ -46,15 +46,15 @@ See ```demo.html``` for an working example, here a link to a working Demo [jQuer
 	   +- LICENSE 
 	  
 ### Options / Table structure
-* borderColor (**default:** black)
-* borderWidth (**default:** 4)
-* defaultTemp  (**default:** 26)
-* fillColor  (**default:** red)
-* labelSize  (**default:** 12)
-* maxTemp  (**default:** 40)
-* minTemp  (**default:** 100)
-* showLabel  (**default:** false)
-* width (**default:** 100)
+* **borderColor** (**default:** black)
+* **borderWidth** (**default:** 4)
+* **defaultTemp**  (**default:** 26)
+* **fillColor**  (**default:** red)
+* **labelSize**  (**default:** 12)
+* **maxTemp**  (**default:** 40)
+* **minTemp**  (**default:** 100)
+* **showLabel**  (**default:** false)
+* **width** (**default:** 100)
 
 
 
