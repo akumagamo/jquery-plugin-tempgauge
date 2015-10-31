@@ -14,7 +14,8 @@ Mini jQuery Temperature styled Gauge plugin, that replaces Temperature Values wi
 
 ## Roadmap / Future Features
 * update Documentation
-* added Temperaturemarkings 
+* added Temperature markings 
+* code refactoring
 * flexible width and height proportion
 
 ## Known Bugs
