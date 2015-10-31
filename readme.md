@@ -4,7 +4,7 @@
 
 Mini jQuery Temperature styled Gauge plugin, that replaces Temperature Values with an Temperature Gauge.  
 
-![Alt Temperature to Gauge](https://raw.githubusercontent.com/akumagamo/jquery-plugin-tempGauge/master/readme/tempgauge-plugin-screenshot.png "Temperature to Gauge")  
+![Temperature to Gauge](https://raw.githubusercontent.com/akumagamo/jquery-plugin-tempGauge/master/readme/tempgauge-plugin-screenshot.png "Temperature to Gauge")  
 
 ## Features
 * replaces temperature values with a Temperature Gauge canvas
@@ -50,6 +50,8 @@ See ```demo.html``` for an working example, here a link to a working Demo [jQuer
      +-+- jquery-plugin-tempgauge
 	   +-+- js
 	   | +- jquery.tempgauge.js
+	   +-+- readme (media for this document)
+	   | +- tempgauge-plugin-screenshot.png
 	   +- demo.html
        +- readme.md (this document)
 	   +- LICENSE 
