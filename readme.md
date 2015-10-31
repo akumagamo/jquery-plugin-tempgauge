@@ -5,6 +5,11 @@ Mini jQuery Temperature styled Gauge plugin, that replaces Temperature Values wi
 
 ## Features
 * replaces temperature values with a Temperature Gauge canvas
+* show Temperature Label
+* set Gauge Border Color
+* set Gauge Fill Color
+* set Max and Min Temperature
+* set canvas width (height is calculated width * 2)
 * Gauge-plugin is chainable
 
 ## Roadmap / Future Features
@@ -46,15 +51,15 @@ See ```demo.html``` for an working example, here a link to a working Demo [jQuer
 	   +- LICENSE 
 	  
 ### Options / Table structure
-* **borderColor** *(****default:*** *black)*
-* **borderWidth** *(****default:*** *4)*
-* **defaultTemp**  *(****default:*** *26)*
-* **fillColor**  *(****default:*** *red)*
-* **labelSize**  *(****default:*** *12)*
-* **maxTemp**  *(****default:*** *40)*
-* **minTemp**  *(****default:*** *100)*
-* **showLabel**  *(****default:*** *false)*
-* **width** *(****default:*** *100)*
+* **borderColor** *(**default:** black)*
+* **borderWidth** *(**default:** 4)*
+* **defaultTemp**  *(**default:** 26)*
+* **fillColor**  *(**default:** red)*
+* **labelSize**  *(**default:** 12)*
+* **maxTemp**  *(**default:** 40)*
+* **minTemp**  *(**default:** 100)*
+* **showLabel**  *(**default:** false)*
+* **width** *(**default:** 100)*
 
 
 
