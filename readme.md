@@ -63,6 +63,7 @@ See ```demo.html``` for an working example, here a link to a working Demo [jQuer
 * **borderWidth** *(****default:*** *4)*
 * **defaultTemp**  *(****default:*** *26)*
 * **fillColor**  *(****default:*** *red)*
+* **labelColor**  *(****default:*** *black)*
 * **labelSize**  *(****default:*** *12)*
 * **maxTemp**  *(****default:*** *40)*
 * **minTemp**  *(****default:*** *100)*
