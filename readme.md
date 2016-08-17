@@ -4,7 +4,7 @@
 
 Mini jQuery Temperature styled Gauge plugin, that replaces Temperature Values with an Temperature Gauge.  
 
-![Temperature to Gauge](https://raw.githubusercontent.com/akumagamo/jquery-plugin-tempGauge/master/readme/tempgauge-plugin-screenshot.png "Temperature to Gauge")  
+![Temperature to Gauge](https://raw.githubusercontent.com/palhotel/jquery-plugin-tempGauge/master/readme/tempgauge-plugin-screenshot.png "Temperature to Gauge")
 
 ## Features
 * replaces temperature values with a Temperature Gauge canvas
@@ -14,6 +14,7 @@ Mini jQuery Temperature styled Gauge plugin, that replaces Temperature Values wi
 * set Max and Min Temperature
 * set canvas width *(height is calculated width * 2)*
 * Gauge-plugin is chainable
+* show Scale
 
 ## Roadmap / Future Features
 * update Documentation
@@ -69,6 +70,7 @@ See ```demo.html``` for an working example, here a link to a working Demo [jQuer
 * **maxTemp**  *(****default:*** *40)*
 * **minTemp**  *(****default:*** *100)*
 * **showLabel**  *(****default:*** *false)*
+* **showScale**  *(****default:*** *false)*
 * **width** *(****default:*** *100)*
 
 
