@@ -21,13 +21,13 @@
 
 			canvas.width = opts.width;
 			canvas.height = opts.width * 2 + opts.labelSize;
-			
+
 			if(opts.replaceHtml){
 				$(gauge).replaceWith(canvas);
 			}else{
 				$(gauge).html(canvas);
 			}
-			
+
 			var percentage = calculatePercentage(currentTemp, opts.minTemp, opts.maxTemp - opts.minTemp);
 
 			ctx.lineWidth = opts.borderWidth;
