@@ -22,7 +22,7 @@
 			canvas.width = opts.width;
 			canvas.height = opts.width * 2 + opts.labelSize;
 			
-			$(gauge).replaceWith(canvas);
+			$(gauge).html(canvas);
 			
 			var percentage = calculatePercentage(currentTemp, opts.minTemp, opts.maxTemp - opts.minTemp);
 
