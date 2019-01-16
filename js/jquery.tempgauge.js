@@ -127,7 +127,7 @@
 		}
 		
 		function fillTempGauge(ctx, x, y, width, height, percent){
-			drawTemperatureGauge(ctx, x, y, width, height,  opts.borderWidth, percent);
+			drawTemperatureGauge(ctx, x, y, width, height,  opts.padding, percent);
 			ctx.fill();
 		}
 
@@ -140,6 +140,7 @@
 	$.fn.tempGauge.defaults = {
 		borderColor: "black",
 		borderWidth: 4,
+		padding: 4,
 		defaultTemp: 26,
 		fillColor: "red",
 		labelSize: 12,
