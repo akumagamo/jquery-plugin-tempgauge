@@ -1,6 +1,6 @@
 # jQuery TempGauge plugin
-## Versionnumber 1.1.0 (2016-11-30)
-(***Documentation last update 2016-11-30 00:30***)  
+## Versionnumber 1.2.0 (2019-01-16)
+(***Documentation last update 2019-01-16 05:30***)  
 
 Mini jQuery Temperature styled Gauge plugin, that replaces Temperature Values with an Temperature Gauge.  
 
@@ -61,18 +61,20 @@ See ```demo.html``` for an working example, here a link to a working Demo [jQuer
 	   +- LICENSE 
 	  
 ### Options
-* **borderColor** *(****default:*** *black)*
-* **borderWidth** *(****default:*** *4)*
-* **defaultTemp**  *(****default:*** *26)*
-* **fillColor**  *(****default:*** *red)*
-* **labelColor**  *(****default:*** *black)*
-* **labelSize**  *(****default:*** *12)*
-* **maxTemp**  *(****default:*** *40)*
-* **minTemp**  *(****default:*** *100)*
-* **showLabel**  *(****default:*** *false)*
-* **showScale**  *(****default:*** *false)*
-* **width** *(****default:*** *100)*
-* **replaceHtml** *(****default:*** *true)*
+* **borderColor** _(**default:** black)_
+* **borderWidth** _(**default:** 4)_
+* **defaultTemp**  _(**default:** 26)_
+* **fillColor**  _(**default:** red)_
+* **labelColor**  _(**default:** black)_
+* **labelSize**  _(**default:** 12)_
+* **maxTemp**  _(**default:** 40)_
+* **minTemp**  _(**default:** 100)_
+* **padding** _(**default:** 4)_
+* **showLabel**  _(**default:** false)_
+* **showScale**  _(**default:** false)_
+* **width** _(**default:** 100)_
+* **replaceHtml** _(**default:** true)_
+
 
 
 
